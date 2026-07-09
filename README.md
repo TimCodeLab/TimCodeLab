@@ -37,16 +37,6 @@ I care about clean architecture, developer experience, and shipping things that 
 
 ---
 
-## 📂 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🔧 *Your Project 1* | What problem it solves | React, Node.js |
-| 📦 *Your Project 2* | What problem it solves | Python, PostgreSQL |
-| 🌐 *Your Project 3* | What problem it solves | Next.js, AWS |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="left">
@@ -66,9 +56,9 @@ I care about clean architecture, developer experience, and shipping things that 
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tim-bin-942677260/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tim.bin7777@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://bintim.com)
 
 ---
 
