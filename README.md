@@ -37,15 +37,6 @@ I care about clean architecture, developer experience, and shipping things that 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TimCodeLab&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimCodeLab&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
----
-
 ## 🤝 Open To
 
 - **Freelance projects** — web apps, APIs, and full-stack builds
